@@ -355,6 +355,12 @@ header nav li a.btn{
 }
 /* /.Section advisory */
 
+/* /.Section product*/
+.product{
+    background-color: #ebecf1;
+}
+/* /.Section product*/
+
 /* /.Section contact */
 .contact{
     background-color: #1F4868;
